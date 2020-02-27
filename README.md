@@ -1,5 +1,5 @@
 -- BIG credits to xMistt for the source code and inspiration of this bot.
-
+[![Run on Repl.it](https://repl.it/badge/github/Keanuofficial/bot)](https://repl.it/github/Keanuofficial/bot)
 # fortnitepy-bot
 A fortnite XMPP bot coded in Python with party capabilites.
 
